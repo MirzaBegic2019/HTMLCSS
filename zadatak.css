@@ -1,0 +1,22 @@
+h1{
+    color: #66CDAA;
+    font-weight: lighter;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+h6{
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+p{
+    color: gray;
+    margin-left: 200px;
+    margin-right: 600px;
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,22 @@
+.moj-paragraf{
+    background: lightblue;
+    font-family: 'Courier New';
+    border-left: 10px solid #000000;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left!important; /* Uradi ovo bez obzira šta je okolo.*/
+    
+}
+
+.klijentov-paragraf{
+    background: #000077;
+    font-family: 'Tahoma';
+    text-align: right;
+    border-left: 0px solid #000000;
+    border-right: 20px solid #000000;
+    padding-left: 0;
+    padding-right: 20px;
+
+}
